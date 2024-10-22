@@ -38,8 +38,3 @@ The dashboard is powered by pivot tables and charts to provide clear insights in
 
 ## Live Document
 Explore the live spreadsheet [here](https://docs.google.com/spreadsheets/d/1052btDhlZKeWviDys7DLd_q8X0FLDzNC_sRzWDkkglY/edit?usp=sharing).
-
-## How to Use the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sales-performance-dashboard.git
